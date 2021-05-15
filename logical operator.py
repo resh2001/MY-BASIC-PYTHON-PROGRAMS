@@ -1,0 +1,5 @@
+x=int(input('enter the value of x: '))
+y=int(input('enter the value of y: '))
+print("x<5 and y>5",(x<5 and y>5))
+print("x<5 or y>5",(x<5 or y>5))
+print("not x<5<y",(not( x<5<y)))
